@@ -1,0 +1,54 @@
+.container{
+    text-align: center;
+    background-color: black;
+    height: 100%;
+    padding: 5px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    color:#ffffff;
+}
+.bulb-image{
+    height:150px;
+}
+
+.cat-image{
+    height: 250px;
+}
+.switch-board{
+    width: 400px;
+    background-color: #88aeee;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+.switch-status{
+    color: black;
+
+}
+.off-switch{
+    height: 40px;
+    width: 120px;
+    margin:5px;
+    background-color: rgb(241, 61, 61);
+    color:#ffffff;
+    font-weight: bold;
+    padding: 2px;
+    border-radius:10px;
+
+
+}
+.on-switch{
+height: 40px;
+    width: 120px;
+    margin:5px;
+    background-color: #b1b0b0;
+    color:#ffffff;
+    font-weight: bold;
+    padding: 2px;
+    border-radius:10px;
+}
